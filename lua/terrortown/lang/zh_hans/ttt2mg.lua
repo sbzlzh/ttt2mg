@@ -1,8 +1,8 @@
 L = LANG.GetLanguageTableReference("zh_hans")
 
 L["title_minigame"] = "启动迷你游戏"
-L["desc_minigame_name"] = "“{name}” 迷你游戏已启动."
-L["desc_minigame_desc"] = "描述： “{desc}"
+L["desc_minigame_name"] = "'{name}' 迷你游戏已启动."
+L["desc_minigame_desc"] = "描述：'{desc}'"
 
 L["label_minigames_enable"] = "启用 TTT2 迷你？"
 L["label_minigames_autostart_random"] = "每回合玩迷你游戏的几率"
